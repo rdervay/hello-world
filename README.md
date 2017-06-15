@@ -1,2 +1,3 @@
 # hello-world
-Just a test repository
+This is just a test repository happy to be in git hub
+
